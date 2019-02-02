@@ -5994,7 +5994,7 @@
           "lib/netstandard1.3/VaultSharp.dll": {}
         }
       },
-      "DFF.Common/1.0.0": {
+      "FT.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -6063,10 +6063,10 @@
           "VaultSharp": "0.11.0"
         },
         "compile": {
-          "bin/placeholder/DFF.Common.dll": {}
+          "bin/placeholder/FT.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DFF.Common.dll": {}
+          "bin/placeholder/FT.Common.dll": {}
         }
       }
     }
@@ -14685,7 +14685,7 @@
       ]
     },
     "System.ValueTuple/4.5.0": {
-      "sha512": "xZtSZNEHGa+tGsKuP4sh257vxJ/yemShz4EusmomkynMzuEDDjVaErBNewpzEF6swUgbcrSQAX3ELsEp1zCOwA==",
+      "sha512": "fa3P1cPe2SlrjCjJ/yc3mcXkDj4GQORmileNFYBtBZh2qddzwRubagAkj8yz/yF9oLvJVqaZYar9l2SCqNKDJg==",
       "type": "package",
       "path": "system.valuetuple/4.5.0",
       "files": [
@@ -15059,15 +15059,15 @@
         "vaultsharp.nuspec"
       ]
     },
-    "DFF.Common/1.0.0": {
+    "FT.Common/1.0.0": {
       "type": "project",
-      "path": "../../../DFF.Common/src/DFF.Common/DFF.Common.csproj",
-      "msbuildProject": "../../../DFF.Common/src/DFF.Common/DFF.Common.csproj"
+      "path": "../../../DFF.Common/src/DFF.Common/FT.Common.csproj",
+      "msbuildProject": "../../../DFF.Common/src/DFF.Common/FT.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "DFF.Common >= 1.0.0",
+      "FT.Common >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.SignalR >= 1.0.3",
       "Microsoft.AspNetCore.SignalR.Redis >= 1.0.3",
@@ -15081,9 +15081,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\DFF\\DFF.Services.Signalr\\src\\DFF.Services.Signalr\\DFF.Services.Signalr.csproj",
-      "projectName": "DFF.Services.Signalr",
-      "projectPath": "D:\\C#\\DFF\\DFF.Services.Signalr\\src\\DFF.Services.Signalr\\DFF.Services.Signalr.csproj",
+      "projectUniqueName": "D:\\C#\\DFF\\DFF.Services.Signalr\\src\\DFF.Services.Signalr\\FT.Services.Signalr.csproj",
+      "projectName": "FT.Services.Signalr",
+      "projectPath": "D:\\C#\\DFF\\DFF.Services.Signalr\\src\\DFF.Services.Signalr\\FT.Services.Signalr.csproj",
       "packagesPath": "C:\\Users\\Michał Fic\\.nuget\\packages\\",
       "outputPath": "D:\\C#\\DFF\\DFF.Services.Signalr\\src\\DFF.Services.Signalr\\obj\\",
       "projectStyle": "PackageReference",
@@ -15104,8 +15104,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\C#\\DFF\\DFF.Common\\src\\DFF.Common\\DFF.Common.csproj": {
-              "projectPath": "D:\\C#\\DFF\\DFF.Common\\src\\DFF.Common\\DFF.Common.csproj"
+            "D:\\C#\\DFF\\DFF.Common\\src\\DFF.Common\\FT.Common.csproj": {
+              "projectPath": "D:\\C#\\DFF\\DFF.Common\\src\\DFF.Common\\FT.Common.csproj"
             }
           }
         }

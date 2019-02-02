@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace DFF.Services.Signalr
+namespace FT.Services.Signalr
 {
     public class Startup
     {

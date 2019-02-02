@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DFF.Services.Signalr.Controllers
+namespace FT.Services.Signalr.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

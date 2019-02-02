@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "DFF.Services.Signalr": {
+    "FT.Services.Signalr": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace DFF.Services.Signalr
+namespace FT.Services.Signalr
 {
     public class Program
     {
